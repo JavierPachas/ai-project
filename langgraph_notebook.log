@@ -1,0 +1,49 @@
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+ERROR:swcpy.swc_client:Request error occurred: Request URL is missing an 'http://' or 'https://' protocol.
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR:swcpy.swc_client:Request error occurred: [Errno 111] Connection refused
+ERROR:swcpy.swc_client:Request error occurred: [Errno 111] Connection refused
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://0.0.0.0:8000/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://0.0.0.0:8000/v0/teams/?skip=0&limit=100 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://0.0.0.0:8000/v0/leagues/?skip=0&limit=100 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
